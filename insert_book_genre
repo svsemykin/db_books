@@ -1,0 +1,2 @@
+insert into book_genre (id_book, id_genre) values (1,2);
+insert into book_genre (id_book, id_genre) values (5,5)

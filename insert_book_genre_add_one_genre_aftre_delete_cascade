@@ -1,0 +1,1 @@
+insert into book_genre (id_book, id_genre) values (2,4);--Чужак + жанро детектив
